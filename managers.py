@@ -17,11 +17,11 @@ class CaptureManager(object):
         # 前置_为保护变量(非公有变量)
         self._capture = capture
         self._channel = 0
-        self._enteredFrame: bool = False
+        self._enteredFrame = False
         self._frame = None
         self._imageFilename: str = None
         self._videoFilename: str = None
-        self._videoEncoding      = None
+        self._videoEncoding = None
         self._videoWriter = None
 
         self._startTime: int = None
