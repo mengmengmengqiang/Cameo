@@ -101,5 +101,7 @@ ENV/
 # pycharm project config file .idea
 .idea/
 
-# video
-.avi
+# video and picture
+*.avi
+*.jpg
+*.png
