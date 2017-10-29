@@ -44,7 +44,7 @@ class Cameo(object):
 
         """
         if keycode == 32:  # space
-            self._pictureNumber += 1
+            self._pictureNumber += 1 
             print("Take a screenshot named screenshot" + str(self._pictureNumber) + ".png\n")
 
             self._captureManager.writeImage('screenshot' + str(self._pictureNumber) + ".png")
