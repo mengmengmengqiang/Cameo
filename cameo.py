@@ -2,7 +2,6 @@ import cv2
 import filters
 from managers import WindowManager, CaptureManager
 
-# xxxx
 
 class Cameo(object):
     def __init__(self, windowName='Cameo', _shouldMirrorPreview=True):
