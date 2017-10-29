@@ -100,3 +100,6 @@ ENV/
 
 # pycharm project config file .idea
 .idea/
+
+# video
+.avi
