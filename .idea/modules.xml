@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Cameo.iml" filepath="$PROJECT_DIR$/.idea/Cameo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenCV/Filter/.idea/Filter.iml" filepath="$PROJECT_DIR$/../OpenCV/Filter/.idea/Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenCV/IMAGE_IO/.idea/IMAGE_IO.iml" filepath="$PROJECT_DIR$/../OpenCV/IMAGE_IO/.idea/IMAGE_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenCV/VIDEO_IO/.idea/VIDEO_IO.iml" filepath="$PROJECT_DIR$/../OpenCV/VIDEO_IO/.idea/VIDEO_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenCV/opencv_camera_test/.idea/opencv_camera_test.iml" filepath="$PROJECT_DIR$/../OpenCV/opencv_camera_test/.idea/opencv_camera_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenCV/optical_flow_tracking/.idea/optical_flow_tracking.iml" filepath="$PROJECT_DIR$/../OpenCV/optical_flow_tracking/.idea/optical_flow_tracking.iml" />
     </modules>
   </component>
 </project>
