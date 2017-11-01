@@ -1,6 +1,7 @@
 import cv2
 import filters
 from managers import WindowManager, CaptureManager
+import depth
 
 
 class Cameo(object):
